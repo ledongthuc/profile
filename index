@@ -6,7 +6,7 @@
 		
 		<meta name="generator" content="Bluefish 2.2.3" />
 		<meta name="author" content="Thuc" />
-		<meta name="date" content="2012-11-20T00:13:12+0700" />
+		<meta name="date" content="2012-11-27T00:49:38+0700" />
 		<meta name="copyright" content="Thuc, Le Dong"/>
 		<meta name="keywords" content="thuc, le dong thuc, profile, resume"/>
 		<meta name="description" content="Thuc, Le Dong. With me, nothing is imposible."/>
@@ -24,29 +24,87 @@
 			<div id="profile">
 				<img id="profile_img" src="img/profile.jpg" alt="Thuc, Le Dong" title="Thuc, Le Dong" />
 				<hr/>
-				<table id="background_information" cellpadding="0em" cellspacing="0em" 
+				
+				<!-- <table class="background_information" cellpadding="0em" cellspacing="0em" 
+						 width="90%" 
+						 summary="Mobile phone: (+84) xxx xxxx xxxx">
+					<tr>
+						<th valign="middle">
+							<img src="img/mobile_phone.png" alt="Mobile phone: (+84) xxx xxxx xxxx" class="title" title="Mobile phone" />
+						</th>
+						<td valign="middle">
+							(+84) xxx xxxx xxxx
+						</td>
+					</tr>
+				</table>
+				<hr/> -->
+
+				<table class="background_information" cellpadding="5em" cellspacing="2em" 
 						 width="90%" 
 						 summary="Email: info@thuc.com.vn, ledongthuc@gmail.com">
 					<tr>
 						<th valign="middle">
-							<img src="img/email.png" alt="Email: info@thuc.com.vn, ledongthuc@gmail.com" class="title" title="Email" />
+							<img src="img/email.png" alt="Email" class="title" title="Email: info@thuc.com.vn, ledongthuc@gmail.com" width="50px" />
 						</th>
 						<td valign="middle">
-							<a href="mailto://info@thuc.com.vn">info@thuc.com.vn</a>, <a href="mailto://info@thuc.com.vn">ledongthuc@gmail.com</a>, <a href="mailto://info@thuc.com.vn">thucdongle@yahoo.com</a>
+							<a href="mailto:info@thuc.com.vn?Subject=Hi%20Thuc" title="info@thuc.com.vn">info@thuc.com.vn</a> , 
+							<a href="mailto:ledongthuc@gmail.com?Subject=Hi%20Thuc" title="ledongthuc@gmail.com">ledongthuc@gmail.com</a>
 						</td>
 					</tr>
 				</table>
 				<hr/>
 
-				<table id="background_information" cellpadding="0em" cellspacing="0em" 
+				<table class="background_information" cellpadding="5em" cellspacing="2em" 
 						 width="90%" 
-						 summary="Email: info@thuc.com.vn, ledongthuc@gmail.com">
+						 summary="Skype: ledongthuc">
 					<tr>
 						<th valign="middle">
-							<img src="img/email.png" alt="Yahoo: thucdongle" class="title" title="Email" />
+							<img src="img/skype.png" alt="Skype" class="title" title="Skype: ledongthuc" width="50px" />
 						</th>
 						<td valign="middle">
-							<a href="ymsgr:sendim?thucdongle" title="yahoo: thucdongle" >thucdongle</a>
+							ledongthuc
+						</td>
+					</tr>
+				</table>
+				<hr/>
+				
+				<table class="background_information" cellpadding="5em" cellspacing="2em" 
+						 width="90%" 
+						 summary="Yahoo: thucdongle">
+					<tr>
+						<th valign="middle">
+							<img src="img/yahoo.png" alt="Yahoo" class="title" title="Yahoo: thucdongle" width="50px" />
+						</th>
+						<td valign="middle">
+							thucdongle
+						</td>
+					</tr>
+				</table>
+				<hr/>
+				
+				<table class="background_information" cellpadding="5em" cellspacing="2em" 
+						 width="90%" 
+						 summary="Facebook: http://www.facebook.com/ledongthuc">
+					<tr>
+						<th valign="middle">
+							<img src="img/facebook.png" alt="Facebook" class="title" title="Facebook: www.facebook.com/ledongthuc" width="50px" />
+						</th>
+						<td valign="middle">
+							<a href="http://www.facebook.com/ledongthuc" title="Facebook: www.facebook.com/ledongthuc" target="_bank">/ledongthuc</a>
+						</td>
+					</tr>
+				</table>
+				<hr/>
+				
+				<table class="background_information" cellpadding="5em" cellspacing="2em"
+						 width="90%" 
+						 summary="LinkedIn: www.linkedin.com/profile/view?id=181225169">
+					<tr>
+						<th valign="middle">
+							<img src="img/linkedin.png" alt="LinkedIn" class="title" title="LinkedIn: www.linkedin.com/profile/view?id=181225169" width="50px" />
+						</th>
+						<td valign="middle">
+							<a href="http://www.linkedin.com/profile/view?id=181225169" title="LinkedIn: www.linkedin.com/profile/view?id=181225169" target="_bank">/profile/view?id=181225169</a>
 						</td>
 					</tr>
 				</table>
@@ -56,8 +114,34 @@
 			
 			<h1>Thuc, Le Dong</h1>
 			<hr/>
-			asdasd
-				
+			<p class="">Thuc, a programmer guy with strong passion, responsibility and logical thinking. A people always thinks: talent, motivation and development are importance element to success in work and life.</p>
+			<p>Has worked as a coder, a team leader, two favourite position . In 2012, I had a chance to be a co-founder of IT company, it gave me a lot of experience. Not long ago, I work for some organization as technical adviser.</p>
+			
+			<h2>Objective</h2>
+			<ul>
+				<li>Improve skill in technical, leadership, management, life and others. I always think people are the most important factor for doing everything. So, to do something, capacity building is always needed.</li>
+				<li>Contribute to building open source community Viet Nam and world. I like the ideas of software freedom and the key is the sharing of knowledge.</li>
+				<!-- <li>Making the world better. Starving children , homeless old people, disease, discrimination ... I don't want see them</li> -->
+			</ul>
+			
+			<h2>Summary of qualification</h2>
+			<ul>
+				<li>Strong passion, responsibility and logical thinking.</li>
+				<li>Experience in web development, software development and mobile financial field.</li>
+				<li>Work in open source communities and open source projects.</li>
+				<li>Analysis, solution design and problem-solving.</li>
+				<li>Familiar with agile development processes.</li>				
+			</ul>						
+			
+			<h2>Favourite quote</h2>
+			<p>"God is in the details" - Ludwig mies van der rohe.</p>
+			<p>"Software is like sex: it's better when it's free." - Linus Torvalds.</p>
+									
+			<h2>Skill</h2>
+
+			<h2>Experience</h2>
+			
+			
 			 <hr style="clear:both"/>
 		</div>
 	</body>

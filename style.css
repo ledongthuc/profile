@@ -102,7 +102,7 @@ li {
 .timeline.left img {
 		clear: right;
     	float: right;
-    	margin: 0em 0em 0em 3em;
+    	margin: 0em 0em 0em 2%;
 	}
 	
 .timeline.right {
@@ -112,7 +112,7 @@ li {
 .timeline.right img {
 		clear: left;
     	float: left;
-    	margin: 0em 3em 0em 0em;
+    	margin: 0em 2% 0em 0em;
 	}
 	
 .timeline .description {
@@ -134,7 +134,7 @@ li {
 	}
 	
 .timeline .timeline_content {
-		width: 66%;
+		width: 64%;
 	}
 
 .timeline.left .timeline_content {
@@ -142,7 +142,7 @@ li {
 	}
 
 .timeline.right .timeline_content {
-		float: left;
+		float: right;
 	}
 
 .timeline a {
@@ -151,4 +151,10 @@ li {
 
 .clear {
 		clear: both;
+	}
+	
+.toolbar {
+		position: fixed;
+		top: 0em;
+		left: 0em;
 	}

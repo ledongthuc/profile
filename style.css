@@ -157,4 +157,23 @@ li {
 		position: fixed;
 		top: 0em;
 		left: 0em;
+		width: 100%;
+		background: url('img/toolbar.png') repeat-x;
+	}
+.toolbar .menu {
+		position: static;
+		top: 0em;
+		margin-left: 39%;		
+	}
+	
+.toolbar .menu .menu_item {
+		font-size: 0.8em;
+		float: left;
+		display: block;
+		padding: 0.3em 1em;
+		background-color: #e0e0e0;
+	}
+	
+.toolbar .menu .menu_item.selected {
+			font-weight: bold;
 	}

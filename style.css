@@ -27,8 +27,9 @@ h1 {
 	}
 
 p {
-		 
+		 font-size: 0.8em;
 	}
+	
 a {
 		color: black;
 		text-decoration: none;
@@ -38,6 +39,7 @@ a:hover {
 	}
 li {
 		margin: 1em 0em;
+		font-size: 0.8em;
 	}
 
 /* Custom size */
@@ -82,4 +84,71 @@ li {
 #profile_img {
 		width: 17em;
 		margin-bottom: 0.5em;
+	}
+
+.timeline {
+		margin: 3em 5em;
+	}
+
+.timeline p {
+		font-size: 0.8em;
+		text-align: justify;
+	}
+
+.timeline.left {
+		text-align: right;
+	}
+
+.timeline.left img {
+		clear: right;
+    	float: right;
+    	margin: 0em 0em 0em 3em;
+	}
+	
+.timeline.right {
+		text-align: left;
+	}
+
+.timeline.right img {
+		clear: left;
+    	float: left;
+    	margin: 0em 3em 0em 0em;
+	}
+	
+.timeline .description {
+		font-weight: normal;
+		font-style: italic; 
+		color: #383838;
+		font-size: 0.8em;
+	}
+
+.timeline .working_time {
+		font-size: 0.7em;
+		color: #383838;
+		font-weight: normal;
+	}
+	
+.timeline .name {
+		font-weight: normal;
+		font-size: 0.9em;
+	}
+	
+.timeline .timeline_content {
+		width: 66%;
+	}
+
+.timeline.left .timeline_content {
+		float: left;
+	}
+
+.timeline.right .timeline_content {
+		float: left;
+	}
+
+.timeline a {
+		color: #0000FF;
+	}
+
+.clear {
+		clear: both;
 	}
